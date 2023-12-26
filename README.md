@@ -29,6 +29,8 @@ Features
 
 Click on start and you will get all the option to login and register in manager and employee account.
 
+
+
 2. Signup/Login Page
    
 Create a secure signup and login page for employees and managers. Users can register or log in to access the system.
@@ -36,9 +38,13 @@ error messages are in the code
 
 Success messages are also in the part of this code.
 
+
+
 3 employee dashboard:
 
 Only click on profile icon and you will get the data of the employee this feature we have included in the dashboard.
+
+
 
 4 manager dashboard:
 
@@ -66,13 +72,19 @@ ix)  and i have added pagination also in the page.
 
 Technologies Used
 
-React+vite
+React+vite 
+
 Redux
+
 React+vite Router
+
 Tailwind CSS
+
 Node.js (for the backend)
+
 Express (for the backend)
-MongoDB (or any database of choice)
+
+MongoDB
 
 
 
