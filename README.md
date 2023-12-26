@@ -35,10 +35,11 @@ Click on start and you will get all the option to login and register in manager 
 
 2. Signup/Login Page
    
-Create a secure signup and login page for employees and managers. Users can register or log in to access the system.
-error messages are in the code
+i)  Create a secure signup and login page for employees and managers. Users can register or log in to access the system.
 
-Success messages are also in the part of this code.
+ii) error messages are in the code
+
+iii) Success messages are also in the part of this code.
 
 
 
