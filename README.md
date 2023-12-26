@@ -4,6 +4,7 @@ FRONTEND PART OF THIS PROJECT
 
 Description
 
+
 This React+vite project is designed to manage employees and departments within an organization. It includes features such as user authentication,manager management,  department management, employee listing, employee details.
 
 
